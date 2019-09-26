@@ -1,5 +1,5 @@
 # liri-node-app
-Command line interface app
+Use liri to lookup your favorite band's upcoming event information, search Spotify for your favorite song, or ...
 
 Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
 Give a high-level overview of how the app is organized
