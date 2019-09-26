@@ -11,6 +11,7 @@ In its current state, the liri app will allow you to lookup:
 Running the App
 
 ***Before using the app, the user needs to provide their own .env file with a set of unique keys in order to employ the Spotify API***
+
 For more information on .env visit: https://www.npmjs.com/package/dotenv
 
 There are three commands currently built into the app:
@@ -48,4 +49,5 @@ Future improvements will be made and additional functionalities will be added to
 -output the data being logged in Terminal to a log.txt file for future review
 -using moment.js to format the date/time shown in the Bands in Town api
 
-Lead developer: Alejandro Pulgarin email: alejandro519@gmail.com
+Lead developer: Alejandro Pulgarin 
+email: alejandro519@gmail.com
