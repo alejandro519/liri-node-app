@@ -41,20 +41,11 @@ The technologies used in this app include:
 -OMDB api
 -Bands In Town Artist Events API
 
-Future improvements:
-
-Additional functionalities will be added to the app including:
+Future improvements will be made and additional functionalities will be added to the app including:
 
 -default response to spotify-this-song if no search parameter is entered
 -a "do-what-it-says" command that will text from inside of random.txt file and call one of liri's commands
 -output the data being logged in Terminal to a log.txt file for future review
+-using moment.js to format the date/time shown in the Bands in Town api
 
-
-
-Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-Give a high-level overview of how the app is organized
-Give start-to-finish instructions on how to run the app
-Include screenshots, gifs or videos of the app functioning
-Contain a link to a deployed version of the app
-Clearly list the technologies used in the app
-State your role in the app development
+Lead developer: Alejandro Pulgarin email: alejandro519@gmail.com
