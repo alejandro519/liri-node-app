@@ -48,7 +48,7 @@ function printTrack(track) {
 }
 
 function searchOmdb(search) {
-  axios.get("http://www.omdbapi.com/?t=" + userSearch + "&y=&plot=short&apikey=trilogy" ).then(
+  axios.get("http://www.omdbapi.com/?t=" + userSearch + "&y=&plot=short&apikey=trilogy").then(
     function (response) {
       console.log("\n-----------------------------\n")
       console.log("The movie's title is: " + response.data.Title);
