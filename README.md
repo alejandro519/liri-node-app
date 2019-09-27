@@ -31,6 +31,7 @@ Once in the terminal type in the following command: node + liri.js + the command
 The name of the band/song/movie does not need to be in parentheses.
 
 To view a deployed version of the app, visit: https://alejandro519.github.io/liri-node-app/
+To view a video of the working app, visit: https://drive.google.com/open?id=1rUfAjVtYvdXTI19G72bUzhD2aL-Q3Sfa
 
 The technologies used in this app include:
 
